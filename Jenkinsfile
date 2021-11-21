@@ -5,7 +5,5 @@ node(any){
         }
    } catch(err) {
         echo "Handling errors".
-   } finally {
-       echo "Cleaning up"
    }
 }

@@ -4,6 +4,6 @@ node(any){
             checkout scm
         }
    } catch(err) {
-        echo "Handling errors".
+        echo "Handling errors..."
    }
 }
